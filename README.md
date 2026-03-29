@@ -51,7 +51,7 @@ Results-driven IT professional with an **M.Sc. in Network Security** and hands-o
 
 ## 📊 Highlights
 
-- 🤖 Built **Lalah AI** — educational chatbot with **50,000+ users** across Afghanistan
+- 🤖 Built **Lalah AI** — educational chatbot with **188,000+ users** across Afghanistan
 - 📚 Supporting **UNICEF DANA Learning Passport** for digital learning
 - 🔬 Published research: *Using Cryptocurrency in Afghanistan* — Gujarat University Journal, 2022
 - 🎓 M.Sc. Network Security — Gujarat University, India
